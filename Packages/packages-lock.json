@@ -48,6 +48,13 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.inputsystem": {
+      "version": "1.0.2",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.mathematics": {
       "version": "1.1.0",
       "depth": 1,
@@ -211,6 +218,16 @@
       "source": "registry",
       "dependencies": {
         "io.extendreality.zinnia.unity": "2.3.0"
+      },
+      "url": "https://registry.npmjs.org"
+    },
+    "io.extendreality.tilia.input.unityinputsystem": {
+      "version": "2.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "io.extendreality.zinnia.unity": "2.3.0",
+        "com.unity.inputsystem": "1.0.2"
       },
       "url": "https://registry.npmjs.org"
     },
