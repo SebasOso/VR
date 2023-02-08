@@ -1267,6 +1267,10 @@ PrefabInstance:
     - target: {fileID: 2402421270702372836, guid: c69d84a3cadb94e45af0210c52e5728d, type: 3}
       propertyPath: targetValidity.field
       value: 
+      objectReference: {fileID: 690099904}
+    - target: {fileID: 2402421270702372836, guid: c69d84a3cadb94e45af0210c52e5728d, type: 3}
+      propertyPath: targetPointValidity.field
+      value: 
       objectReference: {fileID: 195465696}
     - target: {fileID: 2402421270702372836, guid: c69d84a3cadb94e45af0210c52e5728d, type: 3}
       propertyPath: Selected.m_PersistentCalls.m_Calls.Array.size
