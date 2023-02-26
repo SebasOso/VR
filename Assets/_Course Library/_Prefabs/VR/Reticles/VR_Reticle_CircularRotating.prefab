@@ -97,7 +97,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotation: {x: 0, y: 0, z: 0}
-  aceleration: {x: 0, y: 1, z: 0}
+  aceleration: {x: 0, y: 0.2, z: 0}
+  scale: {x: 0.001, y: 0.001, z: 0.001}
+  limitScale: {x: 0.5, y: 0.5, z: 0.5}
 --- !u!1 &8656087483511947524
 GameObject:
   m_ObjectHideFlags: 0
